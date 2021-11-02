@@ -1,3 +1,3 @@
 # Signals and systems lab
 
-GUI programs for the analysis of signals and systems. Warning: I did this some years ago so it has extremely messy code.
+GUI programs for the analysis of signals and systems. Warning: This has extremely messy code so don't even try to read it. I may clean it up if I have some time.
